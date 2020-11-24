@@ -1,0 +1,1199 @@
+[Server 14] Server started
+[Server 21] Server started
+[Server 11] Waiting for message on ip=/169.254.97.223, port=1711
+[Server 14] Waiting for message on ip=/169.254.97.223, port=1714
+[Server 33] Server started
+[Server 12] Server started
+[Server 21] Waiting for message on ip=/169.254.97.223, port=1721
+[Server 23] Server started
+[Server 22] Server started
+[Server 34] Server started
+[Server 12] Waiting for message on ip=/169.254.97.223, port=1712
+[Server 33] Waiting for message on ip=/169.254.97.223, port=1733
+[Server 32] Server started
+[Server 23] Waiting for message on ip=/169.254.97.223, port=1723
+[Server 22] Waiting for message on ip=/169.254.97.223, port=1722
+[Server 42] Server started
+[Server 13] Server started
+[Server 44] Server started
+[Server 31] Server started
+[Server 34] Waiting for message on ip=/169.254.97.223, port=1734
+[Server 32] Waiting for message on ip=/169.254.97.223, port=1732
+[Server 42] Waiting for message on ip=/169.254.97.223, port=1742
+[Server 13] Waiting for message on ip=/169.254.97.223, port=1713
+[Server 44] Waiting for message on ip=/169.254.97.223, port=1744
+[Server 41] Server started
+[Server 31] Waiting for message on ip=/169.254.97.223, port=1731
+[Server 24] Server started
+[Server 41] Waiting for message on ip=/169.254.97.223, port=1741
+[Server 24] Waiting for message on ip=/169.254.97.223, port=1724
+[Server 43] Server started
+[Server 43] Waiting for message on ip=/169.254.97.223, port=1743
+[Server 23] Connected to spanning tree
+[Server 23] Received startBuildingSpanningTree from ip=/169.254.97.223, port=1701
+[Server 23] Received startBuildingSpanningTree from ip=/169.254.97.223, port=1701
+[Server 23] Received startBuildingSpanningTree from ip=/169.254.97.223, port=1701
+[Server 23] Received startBuildingSpanningTree from ip=/169.254.97.223, port=1701
+[Server 23] Received startBuildingSpanningTree from ip=/169.254.97.223, port=1701
+[Server 33] Received ping from 23
+[Server 22] Received ping from 23
+[Server 24] Received ping from 23
+[Server 23] Remaining links to set: 33 22 24 13
+[Server 13] Received ping from 23
+[Server 33] Connected to spanning tree
+[Server 33] Exit ListenGroupThread 23
+[Server 23] Received ping from 33
+[Server 34] Received ping from 33
+[Server 32] Received ping from 33
+[Server 43] Received ping from 33
+[Server 33] Remaining links to set: 32 34 43
+[Server 43] Connected to spanning tree
+[Server 43] Exit ListenGroupThread 33
+[Server 33] Received pong from ip=/169.254.97.223, port=1843
+[Server 33] Exit ListenGroupThread 43
+[Server 42] Received ping from 43
+[Server 44] Received ping from 43
+[Server 43] Remaining links to set: 42 44
+[Server 24] Connected to spanning tree
+[Server 24] Exit ListenGroupThread 23
+[Server 34] Received doNotPing from ip=/169.254.97.223, port=1824
+[Server 23] Received pong from ip=/169.254.97.223, port=1824
+[Server 14] Received ping from 24
+[Server 24] Remaining links to set: 34 14
+[Server 34] Exit ListenGroupThread 24
+[Server 23] Exit ListenGroupThread 24
+[Server 23] Exit ListenGroupThread 22
+[Server 33] Exit ListenGroupThread 34
+[Server 23] Exit ListenGroupThread 13
+[Server 33] Exit ListenGroupThread 32
+[Server 23] Exit ListenGroupThread 33
+[Server 22] Exit ListenGroupThread 32
+[Server 22] Exit ListenGroupThread 12
+[Server 22] Exit ListenGroupThread 21
+[Server 34] Exit ListenGroupThread 44
+[Server 42] Exit ListenGroupThread 32
+[Server 42] Exit ListenGroupThread 41
+[Server 32] Exit ListenGroupThread 22
+[Server 13] Exit ListenGroupThread 12
+[Server 32] Exit ListenGroupThread 31
+[Server 13] Exit ListenGroupThread 14
+[Server 32] Exit ListenGroupThread 42
+[Server 14] Connected to spanning tree
+[Server 14] Exit ListenGroupThread 24
+[Server 24] Received pong from ip=/169.254.97.223, port=1814
+[Server 13] Received doNotPing from ip=/169.254.97.223, port=1814
+[Server 24] Exit ListenGroupThread 14
+[Server 14] Remaining links to set: 13
+[Server 24] Remaining links to set: 34
+[Server 44] Exit ListenGroupThread 34
+[Server 13] Connected to spanning tree
+[Server 24] Exit ListenGroupThread 34
+[Server 13] Exit ListenGroupThread 23
+[Server 23] Received pong from ip=/169.254.97.223, port=1813
+[Server 14] Received doNotPing from ip=/169.254.97.223, port=1813
+[Server 13] Remaining links to set: 12
+[Server 12] Received ping from 13
+[Server 14] Exit ListenGroupThread 13
+[Server 43] Remaining links to set: 42 44
+[Server 14] Remaining links to set:
+[Server 43] Exit ListenGroupThread 44
+[Server 43] Exit ListenGroupThread 42
+[Server 42] Connected to spanning tree
+[Server 42] Exit ListenGroupThread 43
+[Server 32] Received doNotPing from ip=/169.254.97.223, port=1842
+[Server 43] Received pong from ip=/169.254.97.223, port=1842
+[Server 42] Remaining links to set: 32 41
+[Server 41] Received ping from 42
+[Server 42] Remaining links to set: 32 41
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 41] Exit ListenGroupThread 42
+[Server 41] Connected to spanning tree
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 42] Received pong from ip=/169.254.97.223, port=1841
+[Server 41] Remaining links to set: 31
+[Server 31] Received ping from 41
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 44] Connected to spanning tree
+[Server 44] Exit ListenGroupThread 43
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 34] Received doNotPing from ip=/169.254.97.223, port=1844
+[Server 43] Received pong from ip=/169.254.97.223, port=1844
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 44] Remaining links to set: 34
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 41] Remaining links to set: 31
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 14] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 13] Remaining links to set: 12
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 34] Connected to spanning tree
+[Server 12] Connected to spanning tree
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 34] Exit ListenGroupThread 33
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 33] Received pong from ip=/169.254.97.223, port=1834
+[Server 24] Received doNotPing from ip=/169.254.97.223, port=1834
+[Server 44] Received doNotPing from ip=/169.254.97.223, port=1834
+[Server 12] Exit ListenGroupThread 13
+[Server 22] Received doNotPing from ip=/169.254.97.223, port=1812
+[Server 13] Received pong from ip=/169.254.97.223, port=1812
+[Server 34] Remaining links to set:
+[Server 11] Received ping from 12
+[Server 12] Remaining links to set: 22 11
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 32] Connected to spanning tree
+[Server 32] Exit ListenGroupThread 33
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 33] Received pong from ip=/169.254.97.223, port=1832
+[Server 22] Received doNotPing from ip=/169.254.97.223, port=1832
+[Server 42] Received doNotPing from ip=/169.254.97.223, port=1832
+[Server 31] Received doNotPing from ip=/169.254.97.223, port=1832
+[Server 32] Remaining links to set: 22 31
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Exit ListenGroupThread 32
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 13] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 22] Connected to spanning tree
+[Server 22] Exit ListenGroupThread 23
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 32] Received doNotPing from ip=/169.254.97.223, port=1822
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 23] Received pong from ip=/169.254.97.223, port=1822
+[Server 12] Received doNotPing from ip=/169.254.97.223, port=1822
+[Server 21] Received ping from 22
+[Server 12] Exit ListenGroupThread 22
+[Server 22] Remaining links to set: 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 44] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 23] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 33] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 24] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Exit ListenGroupThread 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 24] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 43] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 21] Exit ListenGroupThread 11
+[Server 21] Exit ListenGroupThread 31
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 22] Remaining links to set: 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 22] Remaining links to set: 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Connected to spanning tree
+[Server 31] Exit ListenGroupThread 41
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 21] Received doNotPing from ip=/169.254.97.223, port=1831
+[Server 32] Received doNotPing from ip=/169.254.97.223, port=1831
+[Server 41] Received pong from ip=/169.254.97.223, port=1831
+[Server 31] Remaining links to set: 21
+[Server 41] Exit ListenGroupThread 31
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 44] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 12] Exit ListenGroupThread 11
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 23] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 13] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 33] Exit SendLocalThread
+[Server 34] Exit SendLocalThread
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Connected to spanning tree
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 21] Received doNotPing from ip=/169.254.97.223, port=1811
+[Server 11] Remaining links to set: 21
+[Server 11] Exit ListenGroupThread 12
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 12] Received pong from ip=/169.254.97.223, port=1811
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 41] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Remaining links to set: 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Exit ListenGroupThread 21
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 42] Remaining links to set:
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 21] Connected to spanning tree
+[Server 21] Exit ListenGroupThread 22
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 22] Received pong from ip=/169.254.97.223, port=1821
+[Server 11] Received doNotPing from ip=/169.254.97.223, port=1821
+[Server 11] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Received doNotPing from ip=/169.254.97.223, port=1821
+[Server 21] Remaining links to set:
+[Server 12] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 13] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 14] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 21] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 22] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 23] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 24] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 31] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 32] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 33] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 34] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 41] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 42] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 43] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 44] Received getLinks from ip=/169.254.97.223, port=1701
+[Server 13] Server closed
+[Server 14] Server closed
+[Server 23] Server closed
+[Server 24] Server closed
+[Server 33] Server closed
+[Server 34] Server closed
+[Server 12] Remaining links to set:
+[Server 32] Remaining links to set:
+[Server 44] Server closed
+[Server 21] Exit SendLocalThread
+[Server 21] Server closed
+[Server 32] Exit SendLocalThread
+[Server 32] Server closed
+[Server 43] Exit SendLocalThread
+[Server 43] Server closed
+[Server 11] Remaining links to set:
+[Server 22] Remaining links to set:
+[Server 22] Exit SendLocalThread
+[Server 22] Server closed
+[Server 11] Exit SendLocalThread
+[Server 11] Server closed
+[Server 42] Exit SendLocalThread
+[Server 42] Server closed
+[Server 31] Remaining links to set:
+[Server 41] Exit SendLocalThread
+[Server 41] Server closed
+[Server 31] Exit SendLocalThread
+[Server 31] Server closed
+[Server 12] Exit SendLocalThread
+[Server 12] Server closed

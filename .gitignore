@@ -1,0 +1,6 @@
+cloudSpanningTreeClient/.idea
+cloudSpanningTreeServer/.idea
+cloudSpanningTreeClient/out
+cloudSpanningTreeServer/out
+cloudSpanningTreeClient/*.iml
+cloudSpanningTreeServer/*.iml

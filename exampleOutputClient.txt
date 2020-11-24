@@ -1,0 +1,3942 @@
+[Client] Started
+[Client] Request to start building spanning tree from node 23
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Node 11 hasn't completed its adjacency list
+[Client] Trying to build adjacency matrix
+[Client] Request adjacency list from node 11
+[Client] Waiting to receive adjacency list from node 11
+[Client] Adjacency list received from node 11: 12
+[Client] Request adjacency list from node 12
+[Client] Waiting to receive adjacency list from node 12
+[Client] Adjacency list received from node 12: 11 13
+[Client] Request adjacency list from node 13
+[Client] Waiting to receive adjacency list from node 13
+[Client] Adjacency list received from node 13: 23 12
+[Client] Request adjacency list from node 14
+[Client] Waiting to receive adjacency list from node 14
+[Client] Adjacency list received from node 14: 24
+[Client] Request adjacency list from node 21
+[Client] Waiting to receive adjacency list from node 21
+[Client] Adjacency list received from node 21: 22
+[Client] Request adjacency list from node 22
+[Client] Waiting to receive adjacency list from node 22
+[Client] Adjacency list received from node 22: 21 23
+[Client] Request adjacency list from node 23
+[Client] Waiting to receive adjacency list from node 23
+[Client] Adjacency list received from node 23: 33 22 24 13
+[Client] Request adjacency list from node 24
+[Client] Waiting to receive adjacency list from node 24
+[Client] Adjacency list received from node 24: 23 14
+[Client] Request adjacency list from node 31
+[Client] Waiting to receive adjacency list from node 31
+[Client] Adjacency list received from node 31: 41
+[Client] Request adjacency list from node 32
+[Client] Waiting to receive adjacency list from node 32
+[Client] Adjacency list received from node 32: 33
+[Client] Request adjacency list from node 33
+[Client] Waiting to receive adjacency list from node 33
+[Client] Adjacency list received from node 33: 32 34 23 43
+[Client] Request adjacency list from node 34
+[Client] Waiting to receive adjacency list from node 34
+[Client] Adjacency list received from node 34: 33
+[Client] Request adjacency list from node 41
+[Client] Waiting to receive adjacency list from node 41
+[Client] Adjacency list received from node 41: 42 31
+[Client] Request adjacency list from node 42
+[Client] Waiting to receive adjacency list from node 42
+[Client] Adjacency list received from node 42: 41 43
+[Client] Request adjacency list from node 43
+[Client] Waiting to receive adjacency list from node 43
+[Client] Adjacency list received from node 43: 33 42 44
+[Client] Request adjacency list from node 44
+[Client] Waiting to receive adjacency list from node 44
+[Client] Adjacency list received from node 44: 43
+
+
+[Client] Connections of server nodes
+
+X--X--X  X
+      |  |
+X--X--X--X
+      |
+X  X--X--X
+|     |
+X--X--X--X
+
+
+
+[Client] Send stopServer to 11
+[Client] Send stopServer to 12
+[Client] Send stopServer to 13
+[Client] Send stopServer to 14
+[Client] Send stopServer to 21
+[Client] Send stopServer to 22
+[Client] Send stopServer to 23
+[Client] Send stopServer to 24
+[Client] Send stopServer to 31
+[Client] Send stopServer to 32
+[Client] Send stopServer to 33
+[Client] Send stopServer to 34
+[Client] Send stopServer to 41
+[Client] Send stopServer to 42
+[Client] Send stopServer to 43
+[Client] Send stopServer to 44
+[Client] Exit
