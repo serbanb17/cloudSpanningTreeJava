@@ -9,4 +9,4 @@ the construction of the spanning tree. The client application will display the s
 The graph from which the spanning tree will be built is a 4x4 grid graph.
 Use startServers.ps1 to start all 16 servers.
 Use stopServers.ps1 in case something goes wrong.
-To run client use: javac -d .\cloudSpanningTreeClient\out cloudSpanningTreeClient\src\basePack\*.java; 
+To run client use: javac -d .\cloudSpanningTreeClient\out cloudSpanningTreeClient\src\basePack\*.java; java -cp .\cloudSpanningTreeClient\out basePack.Main
