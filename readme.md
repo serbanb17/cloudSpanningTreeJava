@@ -7,5 +7,6 @@ Develop a client application that will be able to connect to any cluster node (t
 the construction of the spanning tree. The client application will display the spanning tree once it is built
 
 The graph from which the spanning tree will be built is a 4x4 grid graph.
-Copy startServers.ps1 to where the server is built and use it to start al 16 servers. Then start a client.
+Use startServers.ps1 to start all 16 servers.
 Use stopServers.ps1 in case something goes wrong.
+To run client use: javac -d .\cloudSpanningTreeClient\out cloudSpanningTreeClient\src\basePack\*.java; 
